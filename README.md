@@ -11,8 +11,8 @@ The main functions of this class are:
   * rotation
  
 The auxiliar functions of this class are:
-  *valueMax - this function returns the max value of and int vector
-  *newColor - this function allows the creation of a new color performing the validations needed for it to be a valid color
+  * valueMax - this function returns the max value of and int vector
+  * newColor - this function allows the creation of a new color performing the validations needed for it to be a valid color
   
 
 ### Columns2D
